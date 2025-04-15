@@ -6,6 +6,10 @@ body {
     background-color: #e15f41;
 }
 
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
 .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover {
